@@ -46,7 +46,7 @@ L'origine dei record da visualizzare deve contenere tutti i record e le colonne 
 
 Dopo aver definito in che ordine dovranno essere visualizzate le informazioni dovro dire il layout, e infine seleziono le proprieta che deve avere.
 
-![prprieta_report](proprieta_report.PNG "Seleziono proprieta")
+![proprieta_report](proprieta_report.PNG "Seleziono proprieta")
 ---
 #### versione: 01_02
 ##  Obbitivo: 
