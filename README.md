@@ -37,6 +37,7 @@ Poi devo selezionare il layout che voglio:
 E poi dovro dirli cosa puo fare la maschera se solo visualizzare e inserire o anche avere la possibilita di modificare i record (nel mio caso puo solo visualizzare e inserire):
 
 ![Maschera_proprieta](proprieta_maschera.PNG "Seleziono_proprieta_maschera")
+
 #####	Report
 I report ofrono un modo per visualizzare e riepilogare le informazioni nel database, non si possono aggiungere record in un report. Per crearlo il procedimento è molto simile alla maschera. Vado sulla sezione crea di access e seleziono creazione guidata di una maschera access che in seguido mi dara diverse opzione per personalizzare il report.
 L'origine dei record da visualizzare deve contenere tutti i record e le colonne che desidero visualizzare puo essere una query o una tabella.
@@ -44,6 +45,7 @@ L'origine dei record da visualizzare deve contenere tutti i record e le colonne 
 ![Creazione_guidata_report](creazione_guidata_report.PNG "Seleziono origine record")
 
 Dopo aver definito in che ordine dovranno essere visualizzate le informazioni dovro dire il layout, e infine seleziono le proprieta che deve avere.
+
 ![prprieta_report](proprieta_report.PNG "Seleziono proprieta")
 ---
 #### versione: 01_02
